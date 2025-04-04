@@ -65,3 +65,42 @@ console.log("result",resultnum)
 console.log("myvalue",myvaluenum)
 console.log("bigvalue",bigvaluenum)
 // console.log("s1",s1num)
+
+// boolean
+let name="naveen";
+let second=" ";
+let third ="";
+let fourth=0;
+let fifth;
+let six=undefined;
+// let eight=str67;
+console.log(Boolean (name));
+console.log(Boolean (second));
+console.log(Boolean (third));
+console.log(Boolean (fourth));
+console.log(Boolean (fifth));
+console.log(Boolean (six));
+console.log(typeof eight);
+console.log("=====conversion=====")
+console.log(10 +"10");1010
+console.log(10-"10");0
+console.log("sur"+143);
+console.log("sur"-143);
+console.log(50+"fifty");
+console.log("20"+"20");
+console.log(20*"20");
+console.log(20+20);
+
+console.log("=====another type conversion=====")
+console.log(10+5+"true");
+console.log(10+"5"+false)
+console.log("10"/"5"+false)
+console.log("10"/5+"px")
+console.log("\n\t"-5+"1")
+console.log("-10"-5+"1")
+console.log(null+10)
+console.log(undefined+10)
+
+
+
+
